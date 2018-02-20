@@ -1,0 +1,19 @@
+<acceptance-test-run title="Open camera by clicking scan button" name="Open camera by clicking scan button" description="" steps="4" successful="0" failures="0" skipped="0" ignored="4" pending="0" result="SUCCESS" duration="54671" timestamp="2018-01-08T07:25:49.342-05:00">
+  <user-story id="test-meijer-application-camera" name="Test Meijer application camera" path="features/Android.feature"/>
+  <tags>
+    <tag name="Test Meijer application camera" type="feature"/>
+    <tag name="android" type="tag"/>
+  </tags>
+  <test-step result="IGNORED" duration="2">
+    <description>Given Open Meijer application</description>
+  </test-step>
+  <test-step result="IGNORED" duration="0">
+    <description>Then Click on okay dialog</description>
+  </test-step>
+  <test-step result="IGNORED" duration="0">
+    <description>When Click on Scan button</description>
+  </test-step>
+  <test-step result="IGNORED" duration="0">
+    <description>Then Camera should be invoked</description>
+  </test-step>
+</acceptance-test-run>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Test Meijer application camera" skipped="0" tests="2" time="162.51" timestamp="2018-01-12T04:58:20.940269-05:00[America/New_York]"><testcase name="Login with account Details"/><testcase name="Start trip with QRCode"/></testsuite>

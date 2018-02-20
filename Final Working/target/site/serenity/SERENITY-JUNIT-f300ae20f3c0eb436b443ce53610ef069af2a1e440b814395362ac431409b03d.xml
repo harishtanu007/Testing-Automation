@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Test Meijer application camera" skipped="0" tests="1" time="85.74" timestamp="2018-01-11T04:23:02.467888-05:00[America/New_York]"><testcase name="Open camera by clicking scan button"><error message="An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 61.05 seconds&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'&#10;System info: host: 'WINSD185135-75S', ip: 'fe80:0:0:0:1cea:6004:d415:25cd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '9.0.1'&#10;Driver info: io.appium.java_client.android.AndroidDriver&#10;Capabilities [{appPackage=com.meijer.ncr.flms, app=/Users/syamanth/Documents/Testing/MeijerTest.apk, deviceScreenSize=1440x2560, networkConnectionEnabled=true, noReset=true, warnings={}, databaseEnabled=false, deviceName=ce091609d9388b1201, version=7.0, platform=LINUX, deviceUDID=ce091609d9388b1201, appActivity=com.meijers.flms.MyiScan, desired={appPackage=com.meijer.ncr.flms, appActivity=com.meijers.flms.MyiScan, app=/Users/syamanth/Documents/Testing/MeijerTest.apk, noReset=true, platformName=Android, deviceName=Samsung S7, version=7.0}, platformVersion=7.0, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=SM-G930F, platformName=Android, deviceManufacturer=samsung}]&#10;Session ID: a82c2e05-2aaa-4bff-a491-ca3a09d067f4&#10;*** Element info: {Using=id, value=dialogButton}&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'&#10;System info: host: 'WINSD185135-75S', ip: 'fe80:0:0:0:1cea:6004:d415:25cd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '9.0.1'&#10;Driver info: driver.version: AndroidDriver" type="org.openqa.selenium.NoSuchElementException">An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 61.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'WINSD185135-75S', ip: 'fe80:0:0:0:1cea:6004:d415:25cd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '9.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.meijer.ncr.flms, app=/Users/syamanth/Documents/Testing/MeijerTest.apk, deviceScreenSize=1440x2560, networkConnectionEnabled=true, noReset=true, warnings={}, databaseEnabled=false, deviceName=ce091609d9388b1201, version=7.0, platform=LINUX, deviceUDID=ce091609d9388b1201, appActivity=com.meijers.flms.MyiScan, desired={appPackage=com.meijer.ncr.flms, appActivity=com.meijers.flms.MyiScan, app=/Users/syamanth/Documents/Testing/MeijerTest.apk, noReset=true, platformName=Android, deviceName=Samsung S7, version=7.0}, platformVersion=7.0, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=SM-G930F, platformName=Android, deviceManufacturer=samsung}]
+Session ID: a82c2e05-2aaa-4bff-a491-ca3a09d067f4
+*** Element info: {Using=id, value=dialogButton}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'WINSD185135-75S', ip: 'fe80:0:0:0:1cea:6004:d415:25cd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '9.0.1'
+Driver info: driver.version: AndroidDriver</error><system-err>An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 61.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'WINSD185135-75S', ip: 'fe80:0:0:0:1cea:6004:d415:25cd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '9.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.meijer.ncr.flms, app=/Users/syamanth/Documents/Testing/MeijerTest.apk, deviceScreenSize=1440x2560, networkConnectionEnabled=true, noReset=true, warnings={}, databaseEnabled=false, deviceName=ce091609d9388b1201, version=7.0, platform=LINUX, deviceUDID=ce091609d9388b1201, appActivity=com.meijers.flms.MyiScan, desired={appPackage=com.meijer.ncr.flms, appActivity=com.meijers.flms.MyiScan, app=/Users/syamanth/Documents/Testing/MeijerTest.apk, noReset=true, platformName=Android, deviceName=Samsung S7, version=7.0}, platformVersion=7.0, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=SM-G930F, platformName=Android, deviceManufacturer=samsung}]
+Session ID: a82c2e05-2aaa-4bff-a491-ca3a09d067f4
+*** Element info: {Using=id, value=dialogButton}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'WINSD185135-75S', ip: 'fe80:0:0:0:1cea:6004:d415:25cd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '9.0.1'
+Driver info: driver.version: AndroidDriver
+java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:42)
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:62)
+io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+io.appium.java_client.DefaultGenericMobileDriver.findElementById(DefaultGenericMobileDriver.java:70)
+io.appium.java_client.AppiumDriver.findElementById(AppiumDriver.java:1)
+io.appium.java_client.android.AndroidDriver.findElementById(AndroidDriver.java:1)
+io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:58)
+io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+com.ncr.serenitybdd.steps.serenity.EndUserSteps.clicks_okay(EndUserSteps.java:41)
+stepDefinition.AndroidScenario.click_on_okay_dialog(AndroidScenario.java:43)
+✽.Then Click on okay dialog(features/Android.feature:6)
+</system-err></testcase></testsuite>

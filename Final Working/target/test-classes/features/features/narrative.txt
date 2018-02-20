@@ -1,0 +1,4 @@
+Opening Meijer app camera
+In order to test the application 
+As the tester
+I want to be able to open camera
